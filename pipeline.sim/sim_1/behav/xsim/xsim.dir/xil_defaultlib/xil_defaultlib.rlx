@@ -1,0 +1,23 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/Vivado/Project/pipeline/pipeline.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sim_1/new/testbench.v,1661527550,verilog,,,,testbench,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/ip/data_ram/sim/data_ram.v,1661518554,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/ip/inst_rom/sim/inst_rom.v,,data_ram,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/ip/inst_rom/sim/inst_rom.v,1661527464,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/adder.v,,inst_rom,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/adder.v,1661416226,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/alu.v,,adder,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/alu.v,1661479350,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/aludecode.v,,alu,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/aludecode.v,1661390741,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/controller.v,,aludecode,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/controller.v,1661584709,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/cpu.v,,controller,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/cpu.v,1661525597,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/cu.v,,cpu,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/cu.v,1661389698,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/flipenrc.v,,cu,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/flipenrc.v,1661396766,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/hazard.v,,flipenrc,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/hazard.v,1661569865,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/mux2.v,,hazard,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/mux2.v,1661313573,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/mux3.v,,mux2,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/mux3.v,1661313865,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/path.v,,mux3,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/path.v,1661529404,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/pc.v,,path,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/pc.v,1661527163,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/regfile.v,,pc,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/regfile.v,1661315311,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/signextend.v,,regfile,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/signextend.v,1661319198,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/top.v,,signextend,,,,,,,,
+D:/Vivado/Project/pipeline/pipeline.srcs/sources_1/new/top.v,1661520571,verilog,,D:/Vivado/Project/pipeline/pipeline.srcs/sim_1/new/testbench.v,,top,,,,,,,,
